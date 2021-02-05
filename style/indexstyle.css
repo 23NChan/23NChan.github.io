@@ -1,29 +1,42 @@
+body{
+    background: url("https://23nchan.github.io/images/ContainerBackground.png");
+    background-size: 100% 100%;
+}
 div#container{
-    width: 100%;
-    height: 950px;
 
+    width: 1920px;
+    height: 950px;
 }
 
 div#title{
-    widht:100%;
-    height: 10%;
+    widht:1920px;
+    height: 95px;
+}
 
+div#body{
+
+
+    width: 1920px;
+    height:855px;
+    float: left;
 }
 div#lk{
-    width: 1%;
-    height: 90%;
-
+    width: 19px;
+    height: 855px;
     float: left;
 }
-div#body{
-    width: 98%;
-    height:90%;
-
+div#HTML5{
+    width: 200px;
+    height: 855px;
     float: left;
 }
-div#rk{
-    width: 1%;
-    height: 90%;
-
+div#css3 {
+    width: 200px;
+    height: 855px;
+    float: left;
+}
+div#javascript {
+    width: 200px;
+    height: 855px;
     float: left;
 }
