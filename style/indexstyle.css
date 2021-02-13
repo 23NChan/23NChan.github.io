@@ -1,7 +1,7 @@
 body{
     background-image: url("../images/ContainerBackground.png");
-    background-size: 100% 100%;
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 div#container{
 
@@ -12,6 +12,12 @@ div#container{
 div#title{
     widht:1920px;
     height: 95px;
+}
+#title p{
+    color: #fff7ff;
+    text-align: center;
+    text-shadow: 5px 5px 5px #928eff;
+    font-size: 50px;
 }
 
 div#body{
